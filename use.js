@@ -113,7 +113,6 @@ const path = require("path");
 
 
 //cách2:
-
 /*
 Bước 1: Mở terminal đối với Hệ điều hành MacOS hoặc Command Prompt đối
            với hệ điều hành Windows ở thư mục bạn muốn cài đặt dự án
